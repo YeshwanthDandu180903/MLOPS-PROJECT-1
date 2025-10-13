@@ -1,4 +1,5 @@
 ipykernel
+google-cloud-storage
 pandas
 numpy
 matplotlib
